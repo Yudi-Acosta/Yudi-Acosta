@@ -1,7 +1,7 @@
 # <img src="https://github.com/eaflorez/eaflorez/blob/c080f9f82427eeb21af80d39ce641d0123f89bd4/avatar.png" width="50"> Hola, mi nombre es Yudi Acosta 👋
 ### Tecnologo en Análisis y Desarrollo de Software
  
-![Se siente diciembre](https://github.com/eaflorez/eaflorez/blob/4d997db477b87bcda9c1a5d612391bde5606f41f/se%20siente.png)
+![Se siente diciembre](https://github.com/Yudi-Acosta/Yudi-Acosta/blob/19872554a6d5717d63095c833f55e1637fcdefa2/SL-103020-37400-03.jpg)
  
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHCWLlrl0gleSpP6_q0rSNA)
 
